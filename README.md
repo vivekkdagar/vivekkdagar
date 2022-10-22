@@ -1,5 +1,5 @@
 
-<img src="https://github.com/vivekkdagar/vivekkdagar/blob/main/luffy%20(1).gif" width="600">
+<img src="https://github.com/vivekkdagar/vivekkdagar/blob/main/luffy%20(1).gif" width="580">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekkdagar&label=Profile%20views&color=0e75b6&style=flat" alt="vivekkdagar" /> </p>
 
 - 🔭 I’m currently working on **music recommender system**
