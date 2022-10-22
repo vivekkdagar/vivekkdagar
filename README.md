@@ -10,9 +10,6 @@
 
 - 📫 How to reach me **vivekdagar2017@gmail.com**
 
-<h1 align="center">Hi 👋, I'm Vivek Dagar</h1>
-<h3 align="center">A passionate C++ developer from India</h3>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/vivekkdagar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vivekkdagar" height="30" width="40" /></a>
