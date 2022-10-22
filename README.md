@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vivek Dagar</h1>
 <h3 align="center">A passionate C++ developer from India</h3>
-<img src="https://github.com/vivekkdagar/vivekkdagar/blob/main/luffy%20(1).gif" width="421">
+<img src="https://github.com/vivekkdagar/vivekkdagar/blob/main/luffy%20(1).gif" width="600">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekkdagar&label=Profile%20views&color=0e75b6&style=flat" alt="vivekkdagar" /> </p>
 
 - 🔭 I’m currently working on **music recommender system**
