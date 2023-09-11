@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Reactjs & React-Native**
 
-- 📫 How to reach me <a href="https://clipground.com/images/linkedin-icon-png-9.png">**Linkedin**</a>
+- 📫 How to reach me <a href="https://www.linkedin.com/in/vivekkdagar/">**Linkedin**</a>
 
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
@@ -27,7 +27,7 @@
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/vivekkdagar/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
