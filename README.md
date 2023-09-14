@@ -14,8 +14,6 @@
 
 - 🌱 I’m currently learning something interesting
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
-
 - 📫 How to reach me <a href="https://www.linkedin.com/in/vivekkdagar/">**Linkedin**</a>
 
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
