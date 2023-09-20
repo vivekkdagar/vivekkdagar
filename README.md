@@ -53,6 +53,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekkdagar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="Languages Graph" />
 </div>
 
----
-
-[![](https://visitcount.itsvg.in/api?id=vivekkdagar&icon=0&color=0)](https://visitcount.itsvg.in)
