@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently a third-year B.Tech CSE student at [Galgotias University](https://www.galgotiasuniversity.edu.in/).
 
-- 👨‍💻 I’m currently working on [debian-post-install-script](https://github.com/vivekkdagar/debian-post-install-utility).
+- 👨‍💻 I’m currently working on [DebEase](https://github.com/vivekkdagar/DebEase).
 
 - 🌱 I’m always learning something interesting.
 
