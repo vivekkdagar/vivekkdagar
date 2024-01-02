@@ -13,7 +13,6 @@
 ## 📚 About Me:
 
 - 🔭 I’m currently a third-year B.Tech CSE student at [Galgotias University](https://www.galgotiasuniversity.edu.in/).
-- 👨‍💻 I’m currently working on [DebEase](https://github.com/vivekkdagar/DebEase).
 - 🌱 I’m always learning something interesting.
 - 🤝 I’m looking for help with Open Source projects.
 - 📄 Check out my [Resume](https://github.com/vivekkdagar/vivekkdagar/blob/main/Vivek%20Dagar%20-%20Resume.pdf).
