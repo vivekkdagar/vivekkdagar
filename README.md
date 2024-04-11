@@ -19,6 +19,18 @@
 🔥 Kaizoku Oni Orewa Naru 🔥 Dattebayo
 </h6>
 
+<h4 align="center">Everyday is a new adventure!</h4>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vivekkdagar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekkdagar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekkdagar&radius=16&theme=react&area=true&order=5&hide_title=true" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
 <h2 align="center"> Skills </h2>
 
 ###
@@ -73,21 +85,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </div>
 
-###
 
 <img align ="center" src="https://raw.githubusercontent.com/vivekkdagar/vivekkdagar/output/snake.svg" alt="Snake animation" />
 
 
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekkdagar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+
 
 <br>
-<div align="center">
-  <img height="300" src="https://github.com/vivekkdagar/vivekkdagar/blob/main/luffy%20(1).gif"  />
-</div>
 
 ###
 
