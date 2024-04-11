@@ -15,8 +15,8 @@
 
 <h6 align="center">
 
-🔭 I’m currently a third-year B.Tech CSE student at [Galgotias University](https://www.galgotiasuniversity.edu.in/). 📄 Check out my [Resume](https://github.com/vivekkdagar/vivekkdagar/blob/main/Vivek%20Dagar%20-%20Resume.pdf). 🔥 Kaizoku Oni Orewa Naru 
-
+🔭 I’m currently a third-year B.Tech CSE student at [Galgotias University](https://www.galgotiasuniversity.edu.in/). 📄 Check out my [Resume](https://github.com/vivekkdagar/vivekkdagar/blob/main/Vivek%20Dagar%20-%20Resume.pdf). Ask me about **C++ and Python**. 📫 Reach me on vivekdagar2024@gmail.com.
+🔥 Kaizoku Oni Orewa Naru 🔥 Dattebayo
 </h6>
 
 <h2 align="center"> Skills </h2>
@@ -78,17 +78,13 @@
 <img align ="center" src="https://raw.githubusercontent.com/vivekkdagar/vivekkdagar/output/snake.svg" alt="Snake animation" />
 
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/vivekkdagar/count.svg?"  />
-</div>
-
 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekkdagar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-
+<br>
 <div align="center">
   <img height="300" src="https://github.com/vivekkdagar/vivekkdagar/blob/main/luffy%20(1).gif"  />
 </div>
