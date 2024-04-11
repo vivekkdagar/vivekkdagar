@@ -5,7 +5,7 @@
 <div align="center"> <a href="https://www.linkedin.com/in/vivekkdagar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <br>
   <a href="#">
-    <img src="https://img.shields.io/badge/vivekdagar2024@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="vivekdagar2024@gmail.com Badge">
+    <img src="https://img.shields.io/badge/vivekdagar2023@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="vivekdagar2024@gmail.com Badge">
   </a>
 </div>
 
