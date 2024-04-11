@@ -10,6 +10,15 @@
 </div>
 
 
+
+<h2 align="center"> 📚 About Me </h2>
+
+<h6 align="center">
+
+🔭 I’m currently a third-year B.Tech CSE student at [Galgotias University](https://www.galgotiasuniversity.edu.in/). 📄 Check out my [Resume](https://github.com/vivekkdagar/vivekkdagar/blob/main/Vivek%20Dagar%20-%20Resume.pdf). 🔥 Kaizoku Oni Orewa Naru 
+
+</h6>
+
 <h2 align="center"> Skills </h2>
 
 ###
@@ -66,7 +75,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/vivekkdagar/vivekkdagar/output/snake.svg" alt="Snake animation" />
+<img align ="center" src="https://raw.githubusercontent.com/vivekkdagar/vivekkdagar/output/snake.svg" alt="Snake animation" />
 
 
 <div align="center">
@@ -79,22 +88,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekkdagar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/vivekkdagar/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/matrix/default.svg" width="52" height="40" alt="matrix logo"  />
-  <a href="vivekdagar2024@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/vivekdagar2017" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
-  </a>
-</div>
-
-###
 
 <div align="center">
   <img height="300" src="https://github.com/vivekkdagar/vivekkdagar/blob/main/luffy%20(1).gif"  />
@@ -104,35 +97,5 @@
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vivekkdagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="vivekkdagar" height="30" width="40" /></a><a href="https://www.hackerrank.com/vivekdagar2017" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="vivekdagar2017" height="30" width="40" /></a></p>
-
-
-<h3> Contact details </h3>
-
-| <a href="mailto:vivekdagar2023@gmail.com" style="text-decoration: none;">![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)</a> | <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/vivekkdagar//" style="text-decoration: none;">![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)</a> |
-|---|---|
-
-
-
-## 📚 About Me:
-
-- 🔭 I’m currently a third-year B.Tech CSE student at [Galgotias University](https://www.galgotiasuniversity.edu.in/).
-- 🌱 I’m always learning something interesting.
-- 🤝 I’m looking for help with Open Source projects.
-- 📄 Check out my [Resume](https://github.com/vivekkdagar/vivekkdagar/blob/main/Vivek%20Dagar%20-%20Resume.pdf).
-
-
-### ⚙️ Tech Stack
-
-![Bootstrap](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat-square&logo=C++&color=353535) ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-HTML5-05122A?style=flat-square&logo=HTML5&color=353535) ![Bootstrap](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=CSS&color=353535) ![Bootstrap](https://img.shields.io/badge/-Django-05122A?style=flat-square&logo=Django&color=353535) ![Bootstrap](https://img.shields.io/badge/-Notion-05122A?style=flat-square&logo=Notion&color=353535) ![Bootstrap](https://img.shields.io/badge/-Bash-05122A?style=flat-square&logo=Bash&color=353535) ![Bootstrap](https://img.shields.io/badge/-Linux-05122A?style=flat-square&logo=Linux&color=353535) ![Bootstrap](https://img.shields.io/badge/-Puppet-05122A?style=flat-square&logo=Puppet&color=353535) ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&color=353535) ![Bootstrap](https://img.shields.io/badge/-Prompt%20Engineering-05122A?style=flat-square&logo=Prompt-Engineering&color=353535)
-
-
-
-## 📊 GitHub Stats:
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvivekkdagar%2Fvivekkdagar&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekkdagar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="Languages Graph" />
 </div>
 
